@@ -7,7 +7,7 @@
 
 https://asciinema.org/a/jdsM3t7PTmfXRxdRHjIEJMDeY
 
-https://asciinema.org/connect/c6c90045-980d-411e-935d-736b769ec532
+[![asciicast](https://asciinema.org/a/jdsM3t7PTmfXRxdRHjIEJMDeY.svg)](https://asciinema.org/a/jdsM3t7PTmfXRxdRHjIEJMDeY)
 
 [![Maintainability](https://api.codeclimate.com/v1/badges/1d89fac5a11399b25968/maintainability)](https://codeclimate.com/github/MDoak/mrpo_labs/maintainability)
 

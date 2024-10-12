@@ -5,11 +5,9 @@
 
 Игра "Геометическая прогрессия" Показываем игроку ряд чисел, образующий геометрическую прогрессию, заменив любое из чисел двумя точками. Игрок должен определить это число. • Рекомендуемая длина прогрессии – 10 чисел. Длина может генерироваться случайным образом, но должна содержать не менее 5 чисел • Позиция спрятанного элемента каждый раз изменяется (выбирается случайным образом)
 
-https://asciinema.org/a/jdsM3t7PTmfXRxdRHjIEJMDeY
+# Аскинема, демонстрирующая демо версию игры
 
 [![asciicast](https://asciinema.org/a/jdsM3t7PTmfXRxdRHjIEJMDeY.svg)](https://asciinema.org/a/jdsM3t7PTmfXRxdRHjIEJMDeY)
-
-<a href="https://asciinema.org/a/jdsM3t7PTmfXRxdRHjIEJMDeY" target="_blank"><img src="https://asciinema.org/a/jdsM3t7PTmfXRxdRHjIEJMDeY.svg" /></a>
 
 [![Maintainability](https://api.codeclimate.com/v1/badges/1d89fac5a11399b25968/maintainability)](https://codeclimate.com/github/MDoak/mrpo_labs/maintainability)
 

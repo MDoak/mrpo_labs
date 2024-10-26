@@ -7,7 +7,7 @@
 
 # Аскинема, демонстрирующая демо версию игры
 
-[![asciicast](https://asciinema.org/a/jdsM3t7PTmfXRxdRHjIEJMDeY.svg)](https://asciinema.org/a/jdsM3t7PTmfXRxdRHjIEJMDeY)
+<script src="https://asciinema.org/a/zH3SguEz2niNSmkKTZG2N3vyY.js" id="asciicast-zH3SguEz2niNSmkKTZG2N3vyY" async="true"></script>
 
 [![Maintainability](https://api.codeclimate.com/v1/badges/1d89fac5a11399b25968/maintainability)](https://codeclimate.com/github/MDoak/mrpo_labs/maintainability)
 
